@@ -4,4 +4,5 @@
     <string name="enter_email_id">Enter email id</string>
     <string name="enter_password">Enter password</string>
     <string name="let_s_go">SIGN UP</string>
+    <string name="sign_in_with_google">Sign in with google</string>
 </resources>
