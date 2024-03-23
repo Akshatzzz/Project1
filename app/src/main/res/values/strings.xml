@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stockingo</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_email_id">Enter email id</string>
+    <string name="enter_password">Enter password</string>
+    <string name="let_s_go">SIGN UP</string>
+</resources>

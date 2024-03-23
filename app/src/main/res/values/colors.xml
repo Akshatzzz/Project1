@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="sub_text">#616161</color>
+    <color name="primary">#0D47A1</color>
+    <color name="secondary">#90CAF9</color>
+    <color name="text">#000000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="box_border_color">#000000</color>
+    <color name="generic_theme_base">@color/white</color>
+</resources>
